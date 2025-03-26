@@ -13,6 +13,9 @@ More specifically, the created site:
 
 To get started with creating a site, simply:
 
+![image](https://github.com/user-attachments/assets/b8f38136-fd7a-4eb3-af90-5cbdaa136119)
+
+
 1. click "[use this template]" to create a GitHub repository
 2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
 
